@@ -4,6 +4,5 @@
     "DD_VERSION":"1", 
     "DD_RUNTIME_METRICS_ENABLED": true,
     "DD_LOGS_INJECTION": true, 
-    "DD_TRACE_OTEL_ENABLED": true,
     "DD_TAGS":"application-id:00001234"
 }
